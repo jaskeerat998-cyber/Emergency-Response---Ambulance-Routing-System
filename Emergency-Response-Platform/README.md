@@ -64,3 +64,15 @@ Record the actual results in TEST_PLAN.md.
 Test the incident registration, dispatch workflow,
 route calculation, and incident completion.
 Record the actual results in TEST_PLAN.md.
+
+## Project Overview
+
+The Emergency Response and Ambulance Routing System
+helps manage emergency incidents, ambulance dispatch,
+and hospital selection using C and C++.
+## Project Overview
+
+The Emergency Response and Ambulance Routing System
+helps manage emergency incidents, ambulance dispatch,
+and hospital selection using C and C++.
+
