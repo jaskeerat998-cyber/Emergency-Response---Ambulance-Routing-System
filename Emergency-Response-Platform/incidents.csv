@@ -1,0 +1,3 @@
+id,caller,phone,description,lat,lon,severity,ambulance,facility,status,created,assigned_ambulance,assigned_hospital
+1002,ashish,212121212,fever,23.0000000,43.0000000,3,1,1,0,1792656246,-1,-1
+1001,jaskeerat,8081545248,nferjcnnineikdnsknd,44.0000000,44.0000000,3,1,3,0,1792641379,-1,-1
