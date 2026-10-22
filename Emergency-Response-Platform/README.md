@@ -19,3 +19,13 @@
 
 ### Important limitations and safety
 This is a functional local prototype, **not an operational emergency service**. The road graph, ambulance locations, hospital facilities and bed counts are demonstration data and must be replaced with verified feeds before field use. The router refuses to produce a route when either coordinate is more than 5 km from the configured graph. The route estimate uses a simplified graph and a fixed 25 km/h average; it does not include live traffic, closures, turn restrictions, one-way streets, dispatch radio, GPS tracking or geocoding. Hospital capacity is only simulated. It does not call emergency services. Do not enter real patient-identifiable or sensitive information into this demo. In a real deployment, add authentication/roles, encrypted transport and storage, privacy controls, reliable database transactions, backups, monitoring, verified medical/dispatch protocols, live map/routing provider, hospital integrations and human dispatcher oversight.
+
+
+
+## Dispatch Module
+
+The Dispatch Module coordinates emergency incident handling,
+ambulance allocation, hospital selection, and incident completion.
+
+It consists of DispatchEngine, ResourceManager, IncidentReporter,
+and DispatchAudit.
