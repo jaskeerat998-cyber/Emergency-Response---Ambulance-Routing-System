@@ -29,3 +29,11 @@ ambulance allocation, hospital selection, and incident completion.
 
 It consists of DispatchEngine, ResourceManager, IncidentReporter,
 and DispatchAudit.
+
+
+
+## Testing
+
+Test the incident registration, dispatch workflow,
+route calculation, and incident completion.
+Record the actual results in TEST_PLAN.md.
