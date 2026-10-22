@@ -36,3 +36,8 @@ and DispatchAudit.
 
 The routing module uses a configured road graph
 to calculate routes between locations.
+
+## Resource Management
+
+ResourceManager evaluates ambulance availability
+and suitability and helps select an appropriate hospital.
