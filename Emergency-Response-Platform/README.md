@@ -43,3 +43,8 @@ ResourceManager evaluates ambulance availability
 and suitability and helps select an appropriate hospital.
 
 
+## Project Overview
+
+The Emergency Response and Ambulance Routing System
+helps manage emergency incidents, ambulance dispatch,
+and hospital selection using C and C++.
