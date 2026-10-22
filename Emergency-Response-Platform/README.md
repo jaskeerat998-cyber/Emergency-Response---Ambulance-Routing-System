@@ -32,8 +32,7 @@ and DispatchAudit.
 
 
 
-## Testing
+## Route Planning
 
-Test the incident registration, dispatch workflow,
-route calculation, and incident completion.
-Record the actual results in TEST_PLAN.md.
+The routing module uses a configured road graph
+to calculate routes between locations.
