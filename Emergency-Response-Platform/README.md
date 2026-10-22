@@ -41,3 +41,10 @@ to calculate routes between locations.
 
 ResourceManager evaluates ambulance availability
 and suitability and helps select an appropriate hospital.
+
+
+
+## Route Planning
+
+The routing module uses a configured road graph
+to calculate routes between locations.
