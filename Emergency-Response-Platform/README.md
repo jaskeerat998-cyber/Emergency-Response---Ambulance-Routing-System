@@ -23,7 +23,7 @@ This is a functional local prototype, **not an operational emergency service**. 
 
 
 ## Dispatch Module
-
+n
 The Dispatch Module coordinates emergency incident handling,
 ambulance allocation, hospital selection, and incident completion.
 
